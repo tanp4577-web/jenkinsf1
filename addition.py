@@ -12,5 +12,12 @@ def multiply(a, b):
 num1 = 5
 num2 = 4
 print(f"The product of {num1} and {num2} is: {multiply(num1, num2)}")
+# substraction.py
+def subtract(a, b):
+    return a - b
+
+num1 = 20
+num2 = 10
+print(f"The difference of {num1} and {num2} is: {subtract(num1, num2)}")
 
 
